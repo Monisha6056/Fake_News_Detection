@@ -3,7 +3,11 @@ Fake news detection is the process of identifying and classifying news articles,
 
 Key Components of Fake News Detection:
 Data Collection: Gathering datasets containing real and fake news articles for training and evaluation.
+
 Text Processing: Using NLP techniques such as tokenization, stemming, lemmatization, and vectorization (TF-IDF, word embeddings) to analyze text content.
+
 Feature Extraction: Identifying linguistic patterns, sentiment, readability scores, and source credibility.
+
 Model Training: Implementing machine learning algorithms like Logistic Regression, Decision Trees, Random Forest, Naïve Bayes, and deep learning models (LSTMs, Transformers) to classify news as real or fake.
+
 Evaluation & Deployment: Testing model accuracy using metrics like precision, recall, F1-score, and deploying the model for real-world applications.
